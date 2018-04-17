@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Name=Mybasecoin Core
+Comment=Connect to the Mybasecoin P2P Network
+Comment[de]=Verbinde mit dem Mybasecoin peer-to-peer Netzwerk
+Comment[fr]=Mybasecoin, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Mybasecoin, eşten eşe kriptografik sanal para birimi
+Exec=syndicate-qt %u
+Terminal=false
+Type=Application
+Icon=syndicate128
+MimeType=x-scheme-handler/syndicate;
+Categories=Office;Finance;
+StartupWMClass=Mybasecoin-qt
